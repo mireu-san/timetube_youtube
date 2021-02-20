@@ -1,4 +1,4 @@
-export const home = (req, res) => res.render("home", { pageTitle: "Home", potato: 1234 });
+export const home = (req, res) => res.render("home", { pageTitle: "Home", potato: 12456 });
 export const search = (req, res) => 
     res.render("Search", { pageTitle: "Search" });
 

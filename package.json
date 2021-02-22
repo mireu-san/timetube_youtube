@@ -4,7 +4,6 @@
   "description": "Cloning Youtube with VanillaJS and NodeJS",
   "main": "index.js",
   "author": "Jongwan Kim",
-  "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.12.17",
     "@babel/node": "^7.12.17",
